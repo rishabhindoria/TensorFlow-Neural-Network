@@ -6,4 +6,4 @@
 
 • The output (class) of 0,1,2 corresponds to one of the three iris species (Iris setosa, Iris versicolor, Iris virginica)
 
-• Classified new unseen data using the trained neural network.
+• Classified new unseen data using the trained neural network (NN_classifier.png).
